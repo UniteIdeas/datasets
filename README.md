@@ -1,2 +1,2 @@
 # datasets
-Public data for diverse projects
+The folders above contain public data for diverse projects.
